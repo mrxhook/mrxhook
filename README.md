@@ -1,16 +1,16 @@
-### Hi there 👋
+### Derry Sucari Aduviri
+I am a Software & Web developer in Peru. I implement and manage digital products. As a freelancer, I also work with web agencies, companies, startups and individuals to create a digital business plan. [Website](https://dsucaria.com/) — [Blog](https://blog.dsucaria.com/) — [LinkedIn](https://www.linkedin.com/in/dsucaria)
 
-<!--
-**mrxhook/mrxhook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- ***Programming:*** Javascript · Go · Python · C/C++ · PHP · TypeScript · SQL · Java · Dart · Shell Script
+- ***Operating Systems:*** Parrot Security OS · CentOS · Debian GNU/Linux · Kali Linux · Ubuntu
+- ***Tools:*** Git · Postman · VSCode · LucidChart · Cloud services
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Skills
+* Software quality
+* API development
+* Development in Node.js
+* Development in React
+* Development in Gatsby
+* Database Design
+* Responsive Design
