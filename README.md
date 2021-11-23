@@ -1,5 +1,5 @@
 ### Derry Sucari Aduviri
-I am a Software & Web developer in Peru. I implement and manage digital products. As a freelancer, I also work with web agencies, companies, startups and individuals to create a digital business plan. [Website](https://dsucaria.com/) — [Blog](https://blog.dsucaria.com/) — [LinkedIn](https://www.linkedin.com/in/dsucaria)
+I am a Software & Web developer based in Peru. I implement and manage digital products. As a freelancer, I also work with web agencies, companies, startups and individuals to create a digital business plan. [Website](https://dsucaria.com/) — [Blog](https://blog.dsucaria.com/) — [LinkedIn](https://www.linkedin.com/in/dsucaria)
 
 ### About me
 - ***Programming:*** Javascript · Go · Python · C/C++ · PHP · TypeScript · SQL · Java · Dart · Shell Script
